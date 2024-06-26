@@ -1,1 +1,1 @@
-# Segment through Prompt and Prompt for Difussion
+# Segment through Prompt and Prompt for Diffusion
